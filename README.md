@@ -12,4 +12,6 @@
 <li> Learn about numeric type conversion</li>
 <li> Learn about the char data type</li>
 <li> Learn about the string data type</li>
+<li> Define named constants and enumerations</li>
+<li> Accept console input</li>
 </ul>
