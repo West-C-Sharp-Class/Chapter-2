@@ -3,7 +3,7 @@
 
 <ul>
 
-<li>Learn about declaring</li>
+<li>Learn about declaring variables</li>
 <li> Display variable valuses</li>
 <li> Learn about the integral data types</li>
 <li> learn about floating-point data types</li>
