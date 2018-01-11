@@ -4,8 +4,8 @@
 <ul>
 
 <li>Learn about declaring</li>
-
-
+<li> Display variable valuses</li>
+<li Learn about the integral data types</li>
 
 
 
