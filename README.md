@@ -15,3 +15,12 @@
 <li> Define named constants and enumerations</li>
 <li> Accept console input</li>
 </ul>
+<h3>Assignments</h3>
+
+Read page 48-57 <br>
+You do it page 58 <br>
+Read page 59-65 <br>
+You do it page 67 <br>
+Read page 68-69 <br>
+You do it page 7o,76,78 <br>
+Excersises Page 97 4-10
