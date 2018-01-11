@@ -9,4 +9,5 @@
 <li> learn about floating-point data types</li>
 <li> use arithmetic operators</li>
 <li> learn about the bool data type</li>
+<li> Learn about numeric type conversion
 </ul>
