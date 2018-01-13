@@ -1,6 +1,6 @@
 # Chapter-2
 <h2>Using Data</h2>
-
+<b>Objectives</b>
 <ul>
 
 <li>Learn about declaring variables</li>
