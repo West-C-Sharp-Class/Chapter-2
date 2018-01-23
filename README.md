@@ -24,4 +24,4 @@ You do it page 67 <br>
 Read page 68-69 <br>
 You do it page 7o,76,78 <br>
 Excersises Page 97 4-10 & 12 <br>
-Delougging excersises 
+Debugging excersises 
